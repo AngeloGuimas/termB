@@ -25,3 +25,5 @@ Install python on your remote device (router, gateways, computers...) and test t
 **PS3 (Very important!):** Telegram bots can be found by other users. To avoid interactions with unauthorized users, I strongly recommend reading the following article, in which the author shows very good ways to guarantee the bot's privacy. In remote applications such as industrial gateways, device access control is essential.
 
 https://sarafian.github.io/low-code/2020/03/24/create-private-telegram-chatbot.html
+
+![](https://github.com/AngeloGuimas/termB/blob/master/real_use.gif)
