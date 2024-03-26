@@ -1,4 +1,4 @@
-### **termB.py** is a python script that implements a parameterized Telegram bot to help the remote user with basic actions like command executions and file transfers.
+### **termB.py** is a python script that implements a parameterized Telegram bot to help the remote user with basic actions like command executions and file transfers in remote devices.
 
 This script allows basic actions that are normally performed by SSH sessions with programs like Putty and Filezilla. The big problem here is when your remote device is on a CGNAT network which avoid the unique identification of a device. The natural solutions for these cases are to use reverse SSH tunnels, VPNs or third party services like ngrok and pagekite, all of these are complicated and paid options for simple users who just want basic access to the device.
 
